@@ -11,7 +11,7 @@ terrain geometry at very playable framerates.
 
 ## 1.20.1 Sodium 0.5.10+ Compatibility Patch
 
-This fork patches Nvidium 0.2.6-beta to work with Sodium 0.5.10 and above on Minecraft 1.20.1, primarily to support the [unofficial Voxy 1.20.1 backport](https://github.com/mcrcortex/voxy) which requires Sodium >=0.5.10.
+This fork patches Nvidium 0.2.6-beta to work with Sodium 0.5.10 and above on Minecraft 1.20.1, primarily to support the [unofficial Voxy 1.20.1 backport](https://github.com/LunaticWasTaken/voxy) which requires Sodium >=0.5.10.
 
 ### What changed
 - Broadened Sodium version constraint from `=0.5.7 | =0.5.8` to `>=0.5.7` in `fabric.mod.json`
